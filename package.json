@@ -1,0 +1,9 @@
+{
+  "name": "azhankamil-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build:neuro": "cd gulnaarneuro && npm install && npm run build",
+    "build": "rm -rf out && mkdir -p out/gulnaarneuro && cp -R index.html CNAME css img js lib pages personel portfolio pub blog document out/ 2>/dev/null || true && npm run build:neuro && cp -R gulnaarneuro/dist/* out/gulnaarneuro/ && cp -R gulnaarneuro/dist/* gulnaarneuro/"
+  }
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "subject_id": "BNT301",
+    "code": "BNT-301",
+    "name": "Advanced Neuroscience Technique I",
+    "theory_hours": 70,
+    "practical_hours": 30,
+    "course_objective": "This course covers basic instrumentation parameters, fundamentals of evoked potentials, electrode placement, stimulation and recording parameters, machine operation and instrumentation, waveform pattern recognition, basic troubleshooting, basic and uncommon evoked potential procedures, and disease or injury processes correlated with evoked potential results.",
+    "unit_count": 12,
+    "concept_count": 119,
+    "flashcard_count": 250,
+    "mcq_count": 100,
+    "glossary_count": 180,
+    "verification_note": "Generated educational content; use needs_verification/verification_risk fields for review status."
+  },
+  {
+    "subject_id": "BNT302",
+    "code": "BNT-302",
+    "name": "Advanced Neuroscience Technique II",
+    "course_objective": "This course covers basic instrumentation parameters, fundamentals of EMG and autonomic function studies, recording parameters, machine operation and instrumentation, needle EMG findings, waveform pattern recognition, troubleshooting, and safety considerations related to EMG testing.",
+    "unit_count": 7,
+    "concept_count": 100,
+    "flashcard_count": 210,
+    "mcq_count": 80,
+    "glossary_count": 120,
+    "verification_note": "Generated educational content; use needs_verification/verification_risk fields for review status."
+  },
+  {
+    "subject_id": "BNT303",
+    "code": "BNT-303",
+    "name": "Systemic Diseases",
+    "theory_hours": 50,
+    "course_objective": "This course covers common diseases and their causes, pertinent microbiology and pathology of the system involved, major signs and symptoms, management including medical and surgical intervention, and basic neurological examination with emphasis on neuroscience technology.",
+    "unit_count": 12,
+    "concept_count": 92,
+    "flashcard_count": 252,
+    "mcq_count": 108,
+    "glossary_count": 168,
+    "verification_note": "Generated educational content; use needs_verification/verification_risk fields for review status."
+  }
+]
